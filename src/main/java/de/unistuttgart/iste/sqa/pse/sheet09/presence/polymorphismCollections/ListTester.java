@@ -1,6 +1,7 @@
 package de.unistuttgart.iste.sqa.pse.sheet09.presence.polymorphismCollections;
 
 import java.util.*;
+//adsidojide
 
 /**
  * A class to test list implementations.
