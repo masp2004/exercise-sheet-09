@@ -17,7 +17,7 @@ public class OverloadedUsageApp {
 
 		// Create entities building1 and building2 of type Building
 		// let them reference libraryOfAlexandria and stuttgartOperaHouse
-		Building building1 = libraryOfAlexandria;
+		Building building1 = libraryOfAlexandria; //dynamisches Binden (Polymorphie)
 		Building building2 = stuttgartOperaHouse;
 
 		// Call this class' static print building info and pass each of the building
